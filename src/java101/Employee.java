@@ -38,7 +38,7 @@ public class Employee {
 	 emp.setEmpNumber(2025);
 	 
 	 //Display employee informtion
-	 System.out.println("Employee Name:" + emp.getEmpName());
+	 System.out.println("Employee Name:" + emp.getEmpName()); 
 	 System.out.println("Employee Type:" + emp.getEmpType());
 	 System.out.println("Employee Number:" + emp.getEmpNumber());
  }
